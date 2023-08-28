@@ -1,0 +1,22 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh; 
+}
+.custom-navbar {
+    background-color: #ff5733;
+    color: white;
+  }
+  .custom-navbar .nav-link {
+    color: white;
+  }
+.bg-transparent {
+    background-color: transparent!important;
+}
+body {
+    background-image: url('../assets/images/Fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
